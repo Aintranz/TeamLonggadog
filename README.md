@@ -2,5 +2,3 @@
 
 
 goodmorning
-goodnight
-goodssss
